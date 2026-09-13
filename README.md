@@ -83,14 +83,6 @@ I practice DSA using **Python and C++** to improve problem-solving and algorithm
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhirajjadhadhav&theme=github-compact" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhiraj-jadhav-3a17821bb/)
